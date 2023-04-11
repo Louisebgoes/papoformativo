@@ -1,0 +1,52 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+body{
+    font-family:sans-serif;
+}
+
+.inicio {
+    background-image: linear-gradient(#9598DA,#4012F8);
+    color: #F08DF2;
+    display: flex;
+    justify-content: space-around;
+    font-size:30px;
+    padding:50px;
+}
+
+.cabecalho-imagem{
+width: 15%;
+height: 15%;
+}
+
+.titulo{
+    font-size: 30px;
+    font-display: center;
+    justify-content: center;
+}
+
+.cientistas{
+background-image:linear-gradient(#4012F8,#F08DF2);
+color:antiquewhite;
+margin:0px;
+padding:150px  150px;
+justify-content: space-around;
+}
+
+.titulocientistas{
+    color:antiquewhite;
+    margin: 0px;
+    padding:24px 0;
+    font-size: 50px;
+    justify-content: center;
+}
+
+.textocientistas{
+    color:antiquewhite;
+    margin: 50px;
+    padding:24px 0;
+    font-size: 24px;
+}
+    
